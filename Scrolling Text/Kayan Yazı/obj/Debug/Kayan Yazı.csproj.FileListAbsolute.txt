@@ -1,0 +1,9 @@
+C:\Users\Win_7\Desktop\Kayan Yazı\Kayan Yazı\bin\Debug\Kayan Yazı.exe.config
+C:\Users\Win_7\Desktop\Kayan Yazı\Kayan Yazı\bin\Debug\Kayan Yazı.exe
+C:\Users\Win_7\Desktop\Kayan Yazı\Kayan Yazı\bin\Debug\Kayan Yazı.pdb
+C:\Users\Win_7\Desktop\Kayan Yazı\Kayan Yazı\obj\Debug\Kayan Yazı.csprojResolveAssemblyReference.cache
+C:\Users\Win_7\Desktop\Kayan Yazı\Kayan Yazı\obj\Debug\Kayan_Yazı.Form1.resources
+C:\Users\Win_7\Desktop\Kayan Yazı\Kayan Yazı\obj\Debug\Kayan_Yazı.Properties.Resources.resources
+C:\Users\Win_7\Desktop\Kayan Yazı\Kayan Yazı\obj\Debug\Kayan Yazı.csproj.GenerateResource.Cache
+C:\Users\Win_7\Desktop\Kayan Yazı\Kayan Yazı\obj\Debug\Kayan Yazı.exe
+C:\Users\Win_7\Desktop\Kayan Yazı\Kayan Yazı\obj\Debug\Kayan Yazı.pdb
